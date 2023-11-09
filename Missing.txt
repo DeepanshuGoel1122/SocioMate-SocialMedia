@@ -1,0 +1,20 @@
+Missing: Have to work on it
+
+Delete Account Functionality
+Delete Post Functionality
+Post Should also be deleted upon deletion of account
+Alert when password id wrong or user is not found
+Go to login page just after signup
+show password eye in login and signup page
+Auto first letter capitalize in firstname and lastname and also when update user profile details
+Add update password field by asking enter current password
+Add profile pic and name above post of user, and link profile pic and name to that specific user profile page(Post.jsx)
+In profile page show list of users when clicked on followers and following
+open profile of user who we have followed when clicked on name 
+comment functionality
+Start chat button in chat section 
+
+
+
+
+(see in profile card to link name to user profile)

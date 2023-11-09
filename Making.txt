@@ -1,0 +1,44 @@
+------------------------------------SERVER--------------------------------------
+Create folder server 
+npm init
+npm i express mongoose body-parser nodemon
+configuration in package.json {start, type}
+
+create index.js
+make database in MongoDB Atlas,
+make .env file and put port number and mongodb connection string in it
+Make folders Models, Controllers, Routes
+[Starting point of our server is index.js, 
+it follows some kind of routes, 
+controllers are just js functions,
+Models are js schema that our controller will use for functionality]
+
+Make AuthRoute.js
+Now make Model userModel.js
+Now name controller AuthController.js
+
+npm i bcrypt
+functionality to register user, encrypt password
+
+now login if user is exist
+
+Now make UserRoutes, in it register user, login, update, delete
+and now follow a user, unfollow a user
+
+
+Now come to PostModel
+create post, get post, update post, delete post, like dislike post
+
+
+now get Timeline post
+
+
+
+
+
+
+
+
+
+------------------------------Chat Functionality---------------------------------------------
+Make ChatModel
